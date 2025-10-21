@@ -1,5 +1,20 @@
 # filmchat
- AI 聚合影视搜索 App｜Flutter 跨平台项目源码 | 影视聚合搜索
+ AI 聚合影视搜索 App｜Flutter 跨平台项目源码
+
+## app预览
+[https://cinechat.tripcan.cn/](https://cinechat.tripcan.cn/)
+
+前端部分截图:
+![替代文本](https://i.imgur.com/h4hkYYP.png "app截图1")
+![替代文本](https://i.imgur.com/JO9bW3f.png "app截图2")
+
+后台部分截图:
+![替代文本](https://i.imgur.com/WXwsCz0.png "后台截图1")
+![替代文本](https://i.imgur.com/P0Avdtw.png "后台截图2")
+
+源码目录截图:
+![替代文本](https://i.imgur.com/KzI6R5b.png "源码目录结构")
+
 # AI聚合影视搜索app | Flutter跨平台项目源码（支持多端部署）
 
 | 属性类别       | 详情描述                          |
@@ -19,7 +34,7 @@
 - **主机类型**：独立主机（服务器、VPS、VM）  
 - **操作系统**：Linux（推荐CentOS）  
 - **Web服务**：Nginx  
-- **安装方式**：需提供服务器管理权限  
+- **安装方式**：安装宝塔面板
 - **伪静态**：无需配置  
 - **备注**：需具备一定开发技术基础，文档教程详细可参考  
 
