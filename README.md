@@ -5,8 +5,7 @@
 [https://cinechat.tripcan.cn/](https://cinechat.tripcan.cn/)
 
 前端部分截图:
-![替代文本](https://i.imgur.com/h4hkYYP.png "app截图1")
-![替代文本](https://i.imgur.com/JO9bW3f.png "app截图2")
+![替代文本](https://i.imgur.com/JO9bW3f.png "app截图")
 
 后台部分截图:
 ![替代文本](https://i.imgur.com/WXwsCz0.png "后台截图1")
